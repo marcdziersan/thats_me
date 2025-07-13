@@ -1,32 +1,31 @@
-👋 Willkommen auf meinem GitHub-Profil!
+## 👋 Willkommen auf meinem GitHub-Profil!
 
-Hallo! Ich bin Marcus Dziersan, und ich befinde mich derzeit in einer Umschulung zum Fachinformatiker für Anwendungsentwicklung. Seit über zwei Jahrzehnten begeistere ich mich für die Entwicklung von Webseiten und Anwendungen – eine Leidenschaft, die 2000 mit FrontPage aus MS Office 2000 Professional begann. Damals habe ich erste Webseiten generiert und erste Erfahrungen mit dem Microsoft IIS gesammelt.
-🌟 Meine Reise in die IT-Welt:
+Ich bin **Marcus Dziersan**, angehender Fachinformatiker für Anwendungsentwicklung mit Erfahrung im Web – vom ersten HTML mit FrontPage 2000 bis hin zu modernen, interaktiven Lernplattformen.
 
-Was als Spielerei begann, ist bis heute geblieben: Faszination für Technologie und Entwicklung. Im Laufe der Jahre habe ich mich immer wieder mit verschiedenen Projekten und Technologien beschäftigt, darunter:
+---
 
-    HTML, CSS und JavaScript für moderne Frontends.
-    PHP und MySQL/SQLite für serverseitige Logik und Datenbanken.
-    XML und JSON für strukturierte Daten und APIs.
+### 💻 Was ich mache
 
-Ich habe kleinere Plugins und Standalone-Skripte entwickelt, um Probleme zu lösen und Ideen in die Realität umzusetzen.
-💡 Was mache ich hier?
+Ich entwickle praxisnahe Webanwendungen und Tools mit Fokus auf:
 
-Dieses GitHub-Profil ist mein Ort, um:
+* **HTML, CSS & JavaScript** – moderne UIs & Interaktionen
+* **PHP + SQLite/MySQL** – schlanke Backends ohne Overhead
+* **Flat-File-Systeme & Markdown** – einfache, wartbare Lösungen
+* **JSON & XML** – strukturierte APIs und Datenhaltung
 
-    Neuere Projekte zu entwickeln und meine Fortschritte zu dokumentieren.
-    Meine Arbeiten der Öffentlichkeit zugänglich zu machen.
-    Mit anderen Entwicklern zusammenzuarbeiten und von der Community zu lernen.
+Aktuell baue ich ein **interaktives Lernsystem** für Webtechnologien – ganz ohne Videos, aber mit Live-Code, Fortschritts-Tracking und Aufgabenprüfung im Browser.
 
-📚 Technologien & Interessen:
+---
 
-Ich arbeite gern mit:
+### 🚀 Was mich ausmacht
 
-    Sprachen: HTML, CSS, PHP, JavaScript.
-    Datenbanken: MySQL, SQLite.
-    Dateiformate: XML, JSON.
+* **Hands-on Mentalität:** Ich entwickle lieber Lösungen als nur darüber zu reden.
+* **Erfahrung trifft Neugier:** Ich verstehe die "alten Zeiten", lerne aber aktiv moderne Tools und Ansätze.
+* **Produktdenker:** Ich baue keine Demos – ich baue Produkte, die funktionieren.
 
-Ich lerne derzeit auch moderne Ansätze und Frameworks, um mein Wissen zu erweitern und auf dem neuesten Stand zu bleiben.
-🌍 Lass uns in Kontakt bleiben!
+---
 
-Ich freue mich über Feedback, Ideen oder Zusammenarbeit an spannenden Projekten. Melde dich gerne!
+### 🤝 Lass uns vernetzen
+
+Ich freue mich über Feedback, Mitstreiter und neue Ideen.
+**📬 Schreib mir, wenn du ein Projekt starten willst oder einfach mal quatschen möchtest.**
