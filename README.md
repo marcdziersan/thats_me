@@ -14,7 +14,7 @@ Ich entwickle praxisnahe Webanwendungen und Tools mit Fokus auf:
 * **JSON & XML** – strukturierte APIs und Datenhaltung
 
 Aktuell baue ich ein **interaktives Lernsystem** für Webtechnologien – ganz ohne Videos, aber mit Live-Code, Fortschritts-Tracking und Aufgabenprüfung im Browser.
-
+[📚 Meine Lernreise & Skills](learning-skills.md)
 ---
 
 ### 🚀 Was mich ausmacht
