@@ -2,7 +2,7 @@
 
 ## Wer ich bin
 
-Ich bin **Marcus Dziersan** – angehender Fachinformatiker für Anwendungsentwicklung mit über 20 Jahren praktischer Erfahrung im Web. Was 2000 mit einem neugierigen Klick auf *„Erstellen mit FrontPage“* begann, hat sich zu einem echten Handwerk entwickelt:
+Ich bin **Marcus Dziersan** – angehender Fachinformatiker für Anwendungsentwicklung mit Erfahrung im Web. Was 2000 mit einem neugierigen Klick auf *„Erstellen mit FrontPage“* begann, hat sich zu einem echten Handwerk entwickelt:
 
 - Ich baue keine "Hello World"-Demos, sondern reale Tools, die Probleme lösen.  
 - Ich entwickle Lernsysteme, Blogs, Adminpanels, API-Logiken – komplett eigenständig.  
