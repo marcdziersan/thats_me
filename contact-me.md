@@ -1,55 +1,56 @@
-# 🤝 Lass uns zusammenarbeiten
+# 🤝 Lass uns vernetzen
 
 ## Wer ich bin
 
-Ich bin **Marcus Dziersan** – angehender Fachinformatiker für Anwendungsentwicklung mit Erfahrung im Web. Was 2000 mit einem neugierigen Klick auf *„Erstellen mit FrontPage“* begann, hat sich zu einem echten Handwerk entwickelt:
+Ich bin **Marcus Dziersan** – angehender Fachinformatiker für Anwendungsentwicklung mit Wurzeln im Web seit 2000.  
+Was mit einem neugierigen Klick auf *„Erstellen mit FrontPage“* begann, hat sich zu echtem Handwerk entwickelt:
 
-- Ich baue keine "Hello World"-Demos, sondern reale Tools, die Probleme lösen.  
-- Ich entwickle Lernsysteme, Blogs, Adminpanels, API-Logiken – komplett eigenständig.  
-- Ich bin nicht nur Entwickler – ich denke wie ein Produktmacher.
+- Ich entwickle Tools, Lernsysteme, Blogs, Adminoberflächen und Weblogiken – von der Idee bis zur Umsetzung.  
+- Ich bin nicht nur Entwickler – ich denke strukturiert, nutzerorientiert und lösungsbezogen.
 
-> „Gib mir eine Idee, und ich liefere dir ein funktionierendes System – strukturiert, dokumentiert und verständlich.“
-
----
-
-## Was ich dir bieten kann
-
-- ✅ **Zuverlässige Umsetzung** von Projekten auf Basis von HTML, CSS, JS, PHP & SQLite/MySQL  
-- ✅ **Flache, effiziente Architekturen**, ideal für minimalistische Systeme ohne Overhead  
-- ✅ **Eigeninitiative & Kommunikation auf Augenhöhe** – keine Buzzwords, sondern Lösungen  
-- ✅ **Denkweise eines Users**, nicht nur eines Entwicklers – usability-first
+> „Gib mir eine Herausforderung – ich finde den klaren, funktionierenden Weg.“
 
 ---
 
-## Für wen ich arbeite
+## Was ich mitbringe
 
-Ich bin offen für:
+- ✅ **Technisches Verständnis & Erfahrung** – HTML, CSS, JS, PHP & SQLite/MySQL  
+- ✅ **Schlanke Architektur statt Komplexitäts-Overkill**  
+- ✅ **Mitdenken statt Mitlaufen** – keine Buzzwords, keine Blackboxen  
+- ✅ **Nutzerblick** – pragmatische und verständliche Lösungen
 
-- Entwickler:innen, die Verstärkung bei Nebenprojekten oder Open Source suchen  
-- Einzelunternehmer:innen & Coaches, die eigene Tools oder Plattformen benötigen  
-- Bildungsträger oder Tech-Enthusiasten, die an praxisnahen Lernkonzepten interessiert sind  
-- Kreative Teams, die strukturierte technische Umsetzung brauchen
+---
+
+## Wofür ich offen bin
+
+Ich tausche mich gerne aus mit:
+
+- Entwickler:innen, die an ähnlichen Projekten tüfteln  
+- Menschen, die Lerninhalte oder technische Ideen teilen möchten  
+- Bildungsträgern & Enthusiasten, die sich für sinnvolle, webbasierte Systeme interessieren  
+- Teams oder Einzelpersonen, die smarte, wartbare Ideen diskutieren wollen
 
 ---
 
 ## Warum ich?
 
-Weil ich nicht nur codiere, sondern mitdenke.
+Weil ich **nicht nur programmiere – ich verstehe, was gebraucht wird**.
 
-Ich liebe es, Projekte zu verstehen, Lücken zu erkennen und sie ohne Umwege zu schließen. Ich mache keine Show – ich liefere Resultate. Schnell, pragmatisch, wartbar.
-
-In einer Welt voller KI-Generierter "Copy-Paste"-Lösungen bin ich der Mensch, der den Code versteht – und ihn für dich **verständlich und nachhaltig** umsetzt.
+Ich arbeite gerne an sinnvollen Lösungen. Ich suche keinen schnellen Applaus – sondern Systeme, die Menschen wirklich helfen.  
+In einer Zeit voller „KI-löst-alles“-Versprechen bin ich jemand, der echten Code schreiben kann – und weiß, wann man ihn besser nicht schreibt.
 
 ---
 
 ## 📬 Kontakt
 
-Am besten erreichst du mich per Mail:
+Du willst dich austauschen, über ein Projekt sprechen oder einfach Fachsimpeln?
+
+Dann schreib mir gerne:
 
 **✉️ info@marcus-dziersan.de**
 
-Ich freue mich auf konkrete Ideen, spannende Kooperationen oder einfach ein gutes technisches Gespräch.
+Ich freue mich über ehrliches Interesse, Inspiration oder spannenden Tech-Talk.
 
 ---
 
-> *Lass uns gemeinsam etwas bauen, das bleibt.*
+> *Lass uns über Substanz reden – nicht über Verkaufspitches.*
