@@ -2,6 +2,9 @@
 
 Ich bin **Marcus Dziersan**, angehender Fachinformatiker für Anwendungsentwicklung mit Erfahrung im Web – vom ersten HTML mit FrontPage 2000 bis hin zu modernen, interaktiven Lernplattformen.
 
+[📚 Meine Lernreise & Skills](learning-skills.md)
+[📚 Lass uns etwas zusammen bewegen](contact-me.md)
+
 ---
 
 ### 💻 Was ich mache
@@ -14,7 +17,6 @@ Ich entwickle praxisnahe Webanwendungen und Tools mit Fokus auf:
 * **JSON & XML** – strukturierte APIs und Datenhaltung
 
 Aktuell baue ich ein **interaktives Lernsystem** für Webtechnologien – ganz ohne Videos, aber mit Live-Code, Fortschritts-Tracking und Aufgabenprüfung im Browser.
-[📚 Meine Lernreise & Skills](learning-skills.md)
 ---
 
 ### 🚀 Was mich ausmacht
