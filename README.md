@@ -4,7 +4,9 @@ Ich bin **Marcus Dziersan**, angehender Fachinformatiker für Anwendungsentwickl
 
 [📚 Meine Lernreise & Skills](learning-skills.md)
 [📚 Lass uns etwas zusammen bewegen](contact-me.md)
+[📚 Mini Blog](https://marbyte.org/index.php)
 
+https://marbyte.org/index.php
 ---
 
 ### 💻 Was ich mache
