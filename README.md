@@ -3,7 +3,6 @@
 Ich bin **Marcus Dziersan**, angehender Fachinformatiker für Anwendungsentwicklung mit Erfahrung im Web – vom ersten HTML mit FrontPage 2000 bis hin zu modernen, interaktiven Lernplattformen.
 
 [📚 Meine Lernreise & Skills](learning-skills.md)
-[📚 Lass uns etwas zusammen bewegen](contact-me.md)
 [📚 Mini Blog](https://marbyte.org/index.php)
 
 ---
